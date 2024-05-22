@@ -1,6 +1,6 @@
 [
   {
-    "Name": "WebApp",
+    "name": "WebApp",
     "icon": "https://raw.githubusercontent.com/artin473/AppBuilder/main/icon/images%20(4).png",
     "version": "1.0",
     "deception": "پکیج تبدیل لینک به برنامه\n\nبا کمک این پکیج شما می‌توانید لینک را به برنامه تبدیل کنید!",
